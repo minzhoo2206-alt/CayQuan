@@ -1,0 +1,1214 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bánh các loại",
+      "parent_id": null
+    },
+    {
+      "id": 2,
+      "name": "Kẹo các loại",
+      "parent_id": null
+    },
+    {
+      "id": 3,
+      "name": "Snack - Bim bim",
+      "parent_id": null
+    },
+    {
+      "id": 4,
+      "name": "Mứt - Trái cây sấy",
+      "parent_id": null
+    },
+    {
+      "id": 5,
+      "name": "Đồ ăn vặt khô (khô gà, khô bò...)",
+      "parent_id": null
+    },
+    {
+      "id": 6,
+      "name": "Đồ uống - Trà sữa đóng gói",
+      "parent_id": null
+    },
+    {
+      "id": 7,
+      "name": "Bánh quy",
+      "parent_id": 1
+    },
+    {
+      "id": 8,
+      "name": "Bánh gạo",
+      "parent_id": 1
+    },
+    {
+      "id": 9,
+      "name": "Bánh xốp",
+      "parent_id": 1
+    },
+    {
+      "id": 10,
+      "name": "Bánh bông lan",
+      "parent_id": 1
+    },
+    {
+      "id": 11,
+      "name": "Kẹo dẻo",
+      "parent_id": 2
+    },
+    {
+      "id": 12,
+      "name": "Kẹo cứng",
+      "parent_id": 2
+    },
+    {
+      "id": 13,
+      "name": "Kẹo singum",
+      "parent_id": 2
+    },
+    {
+      "id": 14,
+      "name": "Socola",
+      "parent_id": 2
+    },
+    {
+      "id": 15,
+      "name": "Snack khoai tây",
+      "parent_id": 3
+    },
+    {
+      "id": 16,
+      "name": "Snack bắp",
+      "parent_id": 3
+    },
+    {
+      "id": 17,
+      "name": "Snack tôm",
+      "parent_id": 3
+    },
+    {
+      "id": 18,
+      "name": "Snack rong biển",
+      "parent_id": 3
+    },
+    {
+      "id": 19,
+      "name": "Mứt me",
+      "parent_id": 4
+    },
+    {
+      "id": 20,
+      "name": "Mứt xoài",
+      "parent_id": 4
+    },
+    {
+      "id": 21,
+      "name": "Trái cây sấy dẻo",
+      "parent_id": 4
+    },
+    {
+      "id": 22,
+      "name": "Trái cây sấy giòn",
+      "parent_id": 4
+    },
+    {
+      "id": 23,
+      "name": "Khô gà",
+      "parent_id": 5
+    },
+    {
+      "id": 24,
+      "name": "Khô bò",
+      "parent_id": 5
+    },
+    {
+      "id": 25,
+      "name": "Khô mực",
+      "parent_id": 5
+    },
+    {
+      "id": 26,
+      "name": "Hạt điều rang muối",
+      "parent_id": 5
+    },
+    {
+      "id": 27,
+      "name": "Trà sữa túi lọc",
+      "parent_id": 6
+    },
+    {
+      "id": 28,
+      "name": "Nước ép đóng chai",
+      "parent_id": 6
+    },
+    {
+      "id": 29,
+      "name": "Danh mục khác 29",
+      "parent_id": 6
+    },
+    {
+      "id": 30,
+      "name": "Danh mục khác 30",
+      "parent_id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Bánh quy bơ Cosy",
+      "cate_id": 7,
+      "detail": "Bánh quy bơ Cosy - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product1/400/400"
+    },
+    {
+      "id": 2,
+      "name": "Bánh gạo One One vị rong biển",
+      "cate_id": 30,
+      "detail": "Bánh gạo One One vị rong biển - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product2/400/400"
+    },
+    {
+      "id": 3,
+      "name": "Bánh xốp Custas nhân trứng",
+      "cate_id": 15,
+      "detail": "Bánh xốp Custas nhân trứng - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product3/400/400"
+    },
+    {
+      "id": 4,
+      "name": "Bánh bông lan trứng muối Otoke",
+      "cate_id": 14,
+      "detail": "Bánh bông lan trứng muối Otoke - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product4/400/400"
+    },
+    {
+      "id": 5,
+      "name": "Bánh quy Oreo vị socola",
+      "cate_id": 14,
+      "detail": "Bánh quy Oreo vị socola - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product5/400/400"
+    },
+    {
+      "id": 6,
+      "name": "Kẹo dẻo Haribo hình gấu",
+      "cate_id": 11,
+      "detail": "Kẹo dẻo Haribo hình gấu - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product6/400/400"
+    },
+    {
+      "id": 7,
+      "name": "Kẹo cứng bạc hà Alpenliebe",
+      "cate_id": 30,
+      "detail": "Kẹo cứng bạc hà Alpenliebe - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product7/400/400"
+    },
+    {
+      "id": 8,
+      "name": "Kẹo singum Doublemint",
+      "cate_id": 10,
+      "detail": "Kẹo singum Doublemint - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product8/400/400"
+    },
+    {
+      "id": 9,
+      "name": "Socola KitKat que",
+      "cate_id": 28,
+      "detail": "Socola KitKat que - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product9/400/400"
+    },
+    {
+      "id": 10,
+      "name": "Socola Alpenliebe Eclairs",
+      "cate_id": 30,
+      "detail": "Socola Alpenliebe Eclairs - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product10/400/400"
+    },
+    {
+      "id": 11,
+      "name": "Snack khoai tây Lay's vị phô mai",
+      "cate_id": 24,
+      "detail": "Snack khoai tây Lay's vị phô mai - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product11/400/400"
+    },
+    {
+      "id": 12,
+      "name": "Snack bắp Poca",
+      "cate_id": 9,
+      "detail": "Snack bắp Poca - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product12/400/400"
+    },
+    {
+      "id": 13,
+      "name": "Snack tôm Oishi",
+      "cate_id": 25,
+      "detail": "Snack tôm Oishi - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product13/400/400"
+    },
+    {
+      "id": 14,
+      "name": "Snack rong biển Tao Kae Noi",
+      "cate_id": 20,
+      "detail": "Snack rong biển Tao Kae Noi - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product14/400/400"
+    },
+    {
+      "id": 15,
+      "name": "Snack khoai tây Ostar",
+      "cate_id": 8,
+      "detail": "Snack khoai tây Ostar - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product15/400/400"
+    },
+    {
+      "id": 16,
+      "name": "Mứt me chua ngọt Đà Lạt",
+      "cate_id": 7,
+      "detail": "Mứt me chua ngọt Đà Lạt - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product16/400/400"
+    },
+    {
+      "id": 17,
+      "name": "Mứt xoài dẻo Vinamit",
+      "cate_id": 9,
+      "detail": "Mứt xoài dẻo Vinamit - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product17/400/400"
+    },
+    {
+      "id": 18,
+      "name": "Xoài sấy dẻo Vinamit",
+      "cate_id": 13,
+      "detail": "Xoài sấy dẻo Vinamit - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product18/400/400"
+    },
+    {
+      "id": 19,
+      "name": "Mít sấy giòn Vinamit",
+      "cate_id": 14,
+      "detail": "Mít sấy giòn Vinamit - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product19/400/400"
+    },
+    {
+      "id": 20,
+      "name": "Chuối sấy giòn",
+      "cate_id": 23,
+      "detail": "Chuối sấy giòn - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product20/400/400"
+    },
+    {
+      "id": 21,
+      "name": "Khô gà lá chanh Vfood",
+      "cate_id": 26,
+      "detail": "Khô gà lá chanh Vfood - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product21/400/400"
+    },
+    {
+      "id": 22,
+      "name": "Khô bò miếng cay",
+      "cate_id": 7,
+      "detail": "Khô bò miếng cay - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product22/400/400"
+    },
+    {
+      "id": 23,
+      "name": "Khô mực xé sợi cay",
+      "cate_id": 24,
+      "detail": "Khô mực xé sợi cay - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product23/400/400"
+    },
+    {
+      "id": 24,
+      "name": "Hạt điều rang muối Tân Tân",
+      "cate_id": 13,
+      "detail": "Hạt điều rang muối Tân Tân - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product24/400/400"
+    },
+    {
+      "id": 25,
+      "name": "Hạt hướng dương Tân Tân",
+      "cate_id": 29,
+      "detail": "Hạt hướng dương Tân Tân - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product25/400/400"
+    },
+    {
+      "id": 26,
+      "name": "Trà sữa túi lọc Phúc Long",
+      "cate_id": 27,
+      "detail": "Trà sữa túi lọc Phúc Long - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product26/400/400"
+    },
+    {
+      "id": 27,
+      "name": "Trà đào túi lọc Cozy",
+      "cate_id": 29,
+      "detail": "Trà đào túi lọc Cozy - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product27/400/400"
+    },
+    {
+      "id": 28,
+      "name": "Nước ép trái cây Nutriboost",
+      "cate_id": 24,
+      "detail": "Nước ép trái cây Nutriboost - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product28/400/400"
+    },
+    {
+      "id": 29,
+      "name": "Bánh Chocopie Orion",
+      "cate_id": 20,
+      "detail": "Bánh Chocopie Orion - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product29/400/400"
+    },
+    {
+      "id": 30,
+      "name": "Kẹo mút Chupa Chups",
+      "cate_id": 14,
+      "detail": "Kẹo mút Chupa Chups - sản phẩm ăn vặt thơm ngon, đóng gói tiện lợi, phù hợp cho mọi lứa tuổi.",
+      "image": "https://picsum.photos/seed/product30/400/400"
+    }
+  ],
+  "product_variants": [
+    {
+      "id": 1,
+      "product_id": 1,
+      "variant_name": "Hộp nhỏ",
+      "price": 30000,
+      "quantity": 81,
+      "image": "https://picsum.photos/seed/variant1/400/400"
+    },
+    {
+      "id": 2,
+      "product_id": 2,
+      "variant_name": "Combo 3 gói",
+      "price": 8000,
+      "quantity": 50,
+      "image": "https://picsum.photos/seed/variant2/400/400"
+    },
+    {
+      "id": 3,
+      "product_id": 3,
+      "variant_name": "Gói 200g",
+      "price": 25000,
+      "quantity": 81,
+      "image": "https://picsum.photos/seed/variant3/400/400"
+    },
+    {
+      "id": 4,
+      "product_id": 4,
+      "variant_name": "Gói 100g",
+      "price": 12000,
+      "quantity": 96,
+      "image": "https://picsum.photos/seed/variant4/400/400"
+    },
+    {
+      "id": 5,
+      "product_id": 5,
+      "variant_name": "Gói 50g",
+      "price": 10000,
+      "quantity": 107,
+      "image": "https://picsum.photos/seed/variant5/400/400"
+    },
+    {
+      "id": 6,
+      "product_id": 6,
+      "variant_name": "Gói 200g",
+      "price": 10000,
+      "quantity": 98,
+      "image": "https://picsum.photos/seed/variant6/400/400"
+    },
+    {
+      "id": 7,
+      "product_id": 7,
+      "variant_name": "Gói 200g",
+      "price": 45000,
+      "quantity": 21,
+      "image": "https://picsum.photos/seed/variant7/400/400"
+    },
+    {
+      "id": 8,
+      "product_id": 8,
+      "variant_name": "Hộp nhỏ",
+      "price": 30000,
+      "quantity": 41,
+      "image": "https://picsum.photos/seed/variant8/400/400"
+    },
+    {
+      "id": 9,
+      "product_id": 9,
+      "variant_name": "Gói 50g",
+      "price": 25000,
+      "quantity": 151,
+      "image": "https://picsum.photos/seed/variant9/400/400"
+    },
+    {
+      "id": 10,
+      "product_id": 10,
+      "variant_name": "Combo 3 gói",
+      "price": 18000,
+      "quantity": 170,
+      "image": "https://picsum.photos/seed/variant10/400/400"
+    },
+    {
+      "id": 11,
+      "product_id": 11,
+      "variant_name": "Combo 3 gói",
+      "price": 45000,
+      "quantity": 102,
+      "image": "https://picsum.photos/seed/variant11/400/400"
+    },
+    {
+      "id": 12,
+      "product_id": 12,
+      "variant_name": "Gói 100g",
+      "price": 45000,
+      "quantity": 190,
+      "image": "https://picsum.photos/seed/variant12/400/400"
+    },
+    {
+      "id": 13,
+      "product_id": 13,
+      "variant_name": "Gói 50g",
+      "price": 10000,
+      "quantity": 179,
+      "image": "https://picsum.photos/seed/variant13/400/400"
+    },
+    {
+      "id": 14,
+      "product_id": 14,
+      "variant_name": "Combo 3 gói",
+      "price": 15000,
+      "quantity": 84,
+      "image": "https://picsum.photos/seed/variant14/400/400"
+    },
+    {
+      "id": 15,
+      "product_id": 15,
+      "variant_name": "Combo 3 gói",
+      "price": 10000,
+      "quantity": 69,
+      "image": "https://picsum.photos/seed/variant15/400/400"
+    },
+    {
+      "id": 16,
+      "product_id": 16,
+      "variant_name": "Gói 500g",
+      "price": 10000,
+      "quantity": 81,
+      "image": "https://picsum.photos/seed/variant16/400/400"
+    },
+    {
+      "id": 17,
+      "product_id": 17,
+      "variant_name": "Hộp lớn",
+      "price": 30000,
+      "quantity": 103,
+      "image": "https://picsum.photos/seed/variant17/400/400"
+    },
+    {
+      "id": 18,
+      "product_id": 18,
+      "variant_name": "Gói 200g",
+      "price": 12000,
+      "quantity": 100,
+      "image": "https://picsum.photos/seed/variant18/400/400"
+    },
+    {
+      "id": 19,
+      "product_id": 19,
+      "variant_name": "Hộp lớn",
+      "price": 15000,
+      "quantity": 78,
+      "image": "https://picsum.photos/seed/variant19/400/400"
+    },
+    {
+      "id": 20,
+      "product_id": 20,
+      "variant_name": "Hộp lớn",
+      "price": 60000,
+      "quantity": 28,
+      "image": "https://picsum.photos/seed/variant20/400/400"
+    },
+    {
+      "id": 21,
+      "product_id": 21,
+      "variant_name": "Hộp lớn",
+      "price": 45000,
+      "quantity": 53,
+      "image": "https://picsum.photos/seed/variant21/400/400"
+    },
+    {
+      "id": 22,
+      "product_id": 22,
+      "variant_name": "Hộp lớn",
+      "price": 35000,
+      "quantity": 72,
+      "image": "https://picsum.photos/seed/variant22/400/400"
+    },
+    {
+      "id": 23,
+      "product_id": 23,
+      "variant_name": "Gói 500g",
+      "price": 12000,
+      "quantity": 107,
+      "image": "https://picsum.photos/seed/variant23/400/400"
+    },
+    {
+      "id": 24,
+      "product_id": 24,
+      "variant_name": "Hộp lớn",
+      "price": 18000,
+      "quantity": 186,
+      "image": "https://picsum.photos/seed/variant24/400/400"
+    },
+    {
+      "id": 25,
+      "product_id": 25,
+      "variant_name": "Gói 100g",
+      "price": 35000,
+      "quantity": 185,
+      "image": "https://picsum.photos/seed/variant25/400/400"
+    },
+    {
+      "id": 26,
+      "product_id": 26,
+      "variant_name": "Combo 3 gói",
+      "price": 20000,
+      "quantity": 24,
+      "image": "https://picsum.photos/seed/variant26/400/400"
+    },
+    {
+      "id": 27,
+      "product_id": 27,
+      "variant_name": "Combo 3 gói",
+      "price": 15000,
+      "quantity": 18,
+      "image": "https://picsum.photos/seed/variant27/400/400"
+    },
+    {
+      "id": 28,
+      "product_id": 28,
+      "variant_name": "Gói 500g",
+      "price": 20000,
+      "quantity": 78,
+      "image": "https://picsum.photos/seed/variant28/400/400"
+    },
+    {
+      "id": 29,
+      "product_id": 29,
+      "variant_name": "Gói 100g",
+      "price": 10000,
+      "quantity": 155,
+      "image": "https://picsum.photos/seed/variant29/400/400"
+    },
+    {
+      "id": 30,
+      "product_id": 30,
+      "variant_name": "Gói 100g",
+      "price": 20000,
+      "quantity": 177,
+      "image": "https://picsum.photos/seed/variant30/400/400"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "user_id": 24,
+      "created_date": "2025-08-05 22:00:00",
+      "status": "cancelled"
+    },
+    {
+      "id": 2,
+      "user_id": 7,
+      "created_date": "2025-09-07 04:00:00",
+      "status": "shipping"
+    },
+    {
+      "id": 3,
+      "user_id": 19,
+      "created_date": "2025-04-22 01:00:00",
+      "status": "cancelled"
+    },
+    {
+      "id": 4,
+      "user_id": 11,
+      "created_date": "2025-02-01 23:00:00",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "user_id": 16,
+      "created_date": "2025-01-26 18:00:00",
+      "status": "cancelled"
+    },
+    {
+      "id": 6,
+      "user_id": 17,
+      "created_date": "2025-03-22 01:00:00",
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "user_id": 20,
+      "created_date": "2025-04-06 02:00:00",
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "user_id": 4,
+      "created_date": "2025-05-01 12:00:00",
+      "status": "cancelled"
+    },
+    {
+      "id": 9,
+      "user_id": 20,
+      "created_date": "2025-05-07 18:00:00",
+      "status": "pending"
+    },
+    {
+      "id": 10,
+      "user_id": 22,
+      "created_date": "2025-02-11 13:00:00",
+      "status": "cancelled"
+    },
+    {
+      "id": 11,
+      "user_id": 7,
+      "created_date": "2025-06-11 08:00:00",
+      "status": "shipping"
+    },
+    {
+      "id": 12,
+      "user_id": 13,
+      "created_date": "2025-05-03 08:00:00",
+      "status": "confirmed"
+    },
+    {
+      "id": 13,
+      "user_id": 11,
+      "created_date": "2025-06-03 14:00:00",
+      "status": "pending"
+    },
+    {
+      "id": 14,
+      "user_id": 20,
+      "created_date": "2025-01-05 14:00:00",
+      "status": "cancelled"
+    },
+    {
+      "id": 15,
+      "user_id": 18,
+      "created_date": "2025-02-21 02:00:00",
+      "status": "confirmed"
+    },
+    {
+      "id": 16,
+      "user_id": 5,
+      "created_date": "2025-09-17 08:00:00",
+      "status": "shipping"
+    },
+    {
+      "id": 17,
+      "user_id": 12,
+      "created_date": "2025-02-05 07:00:00",
+      "status": "shipping"
+    },
+    {
+      "id": 18,
+      "user_id": 27,
+      "created_date": "2025-03-22 14:00:00",
+      "status": "cancelled"
+    },
+    {
+      "id": 19,
+      "user_id": 26,
+      "created_date": "2025-06-04 19:00:00",
+      "status": "cancelled"
+    },
+    {
+      "id": 20,
+      "user_id": 27,
+      "created_date": "2025-01-05 21:00:00",
+      "status": "cancelled"
+    },
+    {
+      "id": 21,
+      "user_id": 4,
+      "created_date": "2025-06-03 21:00:00",
+      "status": "confirmed"
+    },
+    {
+      "id": 22,
+      "user_id": 29,
+      "created_date": "2025-05-16 03:00:00",
+      "status": "pending"
+    },
+    {
+      "id": 23,
+      "user_id": 10,
+      "created_date": "2025-03-21 08:00:00",
+      "status": "cancelled"
+    },
+    {
+      "id": 24,
+      "user_id": 11,
+      "created_date": "2025-04-18 22:00:00",
+      "status": "confirmed"
+    },
+    {
+      "id": 25,
+      "user_id": 16,
+      "created_date": "2025-05-16 16:00:00",
+      "status": "shipping"
+    },
+    {
+      "id": 26,
+      "user_id": 21,
+      "created_date": "2025-01-27 02:00:00",
+      "status": "completed"
+    },
+    {
+      "id": 27,
+      "user_id": 1,
+      "created_date": "2025-05-22 01:00:00",
+      "status": "shipping"
+    },
+    {
+      "id": 28,
+      "user_id": 9,
+      "created_date": "2025-03-08 20:00:00",
+      "status": "confirmed"
+    },
+    {
+      "id": 29,
+      "user_id": 23,
+      "created_date": "2025-08-15 17:00:00",
+      "status": "completed"
+    },
+    {
+      "id": 30,
+      "user_id": 3,
+      "created_date": "2025-01-05 03:00:00",
+      "status": "confirmed"
+    }
+  ],
+  "order_details": [
+    {
+      "id": 1,
+      "order_id": 27,
+      "product_id": 18,
+      "quantity": 3,
+      "unit_price": 12000
+    },
+    {
+      "id": 2,
+      "order_id": 14,
+      "product_id": 19,
+      "quantity": 2,
+      "unit_price": 15000
+    },
+    {
+      "id": 3,
+      "order_id": 12,
+      "product_id": 2,
+      "quantity": 1,
+      "unit_price": 8000
+    },
+    {
+      "id": 4,
+      "order_id": 7,
+      "product_id": 29,
+      "quantity": 2,
+      "unit_price": 10000
+    },
+    {
+      "id": 5,
+      "order_id": 12,
+      "product_id": 22,
+      "quantity": 5,
+      "unit_price": 35000
+    },
+    {
+      "id": 6,
+      "order_id": 20,
+      "product_id": 29,
+      "quantity": 2,
+      "unit_price": 10000
+    },
+    {
+      "id": 7,
+      "order_id": 28,
+      "product_id": 30,
+      "quantity": 2,
+      "unit_price": 20000
+    },
+    {
+      "id": 8,
+      "order_id": 29,
+      "product_id": 26,
+      "quantity": 4,
+      "unit_price": 20000
+    },
+    {
+      "id": 9,
+      "order_id": 24,
+      "product_id": 1,
+      "quantity": 3,
+      "unit_price": 30000
+    },
+    {
+      "id": 10,
+      "order_id": 26,
+      "product_id": 26,
+      "quantity": 2,
+      "unit_price": 20000
+    },
+    {
+      "id": 11,
+      "order_id": 26,
+      "product_id": 9,
+      "quantity": 1,
+      "unit_price": 25000
+    },
+    {
+      "id": 12,
+      "order_id": 28,
+      "product_id": 13,
+      "quantity": 4,
+      "unit_price": 10000
+    },
+    {
+      "id": 13,
+      "order_id": 27,
+      "product_id": 8,
+      "quantity": 4,
+      "unit_price": 30000
+    },
+    {
+      "id": 14,
+      "order_id": 27,
+      "product_id": 12,
+      "quantity": 2,
+      "unit_price": 45000
+    },
+    {
+      "id": 15,
+      "order_id": 22,
+      "product_id": 8,
+      "quantity": 2,
+      "unit_price": 30000
+    },
+    {
+      "id": 16,
+      "order_id": 9,
+      "product_id": 13,
+      "quantity": 1,
+      "unit_price": 10000
+    },
+    {
+      "id": 17,
+      "order_id": 12,
+      "product_id": 25,
+      "quantity": 5,
+      "unit_price": 35000
+    },
+    {
+      "id": 18,
+      "order_id": 1,
+      "product_id": 13,
+      "quantity": 1,
+      "unit_price": 10000
+    },
+    {
+      "id": 19,
+      "order_id": 6,
+      "product_id": 29,
+      "quantity": 5,
+      "unit_price": 10000
+    },
+    {
+      "id": 20,
+      "order_id": 4,
+      "product_id": 9,
+      "quantity": 5,
+      "unit_price": 25000
+    },
+    {
+      "id": 21,
+      "order_id": 24,
+      "product_id": 14,
+      "quantity": 3,
+      "unit_price": 15000
+    },
+    {
+      "id": 22,
+      "order_id": 13,
+      "product_id": 14,
+      "quantity": 5,
+      "unit_price": 15000
+    },
+    {
+      "id": 23,
+      "order_id": 2,
+      "product_id": 7,
+      "quantity": 4,
+      "unit_price": 45000
+    },
+    {
+      "id": 24,
+      "order_id": 12,
+      "product_id": 1,
+      "quantity": 4,
+      "unit_price": 30000
+    },
+    {
+      "id": 25,
+      "order_id": 20,
+      "product_id": 3,
+      "quantity": 3,
+      "unit_price": 25000
+    },
+    {
+      "id": 26,
+      "order_id": 24,
+      "product_id": 22,
+      "quantity": 3,
+      "unit_price": 35000
+    },
+    {
+      "id": 27,
+      "order_id": 22,
+      "product_id": 17,
+      "quantity": 4,
+      "unit_price": 30000
+    },
+    {
+      "id": 28,
+      "order_id": 23,
+      "product_id": 11,
+      "quantity": 3,
+      "unit_price": 45000
+    },
+    {
+      "id": 29,
+      "order_id": 7,
+      "product_id": 18,
+      "quantity": 4,
+      "unit_price": 12000
+    },
+    {
+      "id": 30,
+      "order_id": 22,
+      "product_id": 22,
+      "quantity": 2,
+      "unit_price": 35000
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Đặng Thị Nam",
+      "email": "dặngthịnam1@gmail.com",
+      "phone": "0996282117",
+      "address": "235 đường Trần Hưng Đạo, Đà Nẵng"
+    },
+    {
+      "id": 2,
+      "name": "Lê Văn Hoa",
+      "email": "lêvănhoa2@gmail.com",
+      "phone": "0985345555",
+      "address": "276 đường Cách Mạng Tháng 8, Quảng Ninh"
+    },
+    {
+      "id": 3,
+      "name": "Đỗ Thị Oanh",
+      "email": "dỗthịoanh3@gmail.com",
+      "phone": "0988320463",
+      "address": "205 đường Điện Biên Phủ, TP. Hồ Chí Minh"
+    },
+    {
+      "id": 4,
+      "name": "Lê Văn Sang",
+      "email": "lêvănsang4@gmail.com",
+      "phone": "0976238574",
+      "address": "47 đường Nguyễn Trãi, Huế"
+    },
+    {
+      "id": 5,
+      "name": "Trần Thị Em",
+      "email": "trầnthịem5@gmail.com",
+      "phone": "0994214382",
+      "address": "82 đường Nguyễn Huệ, Cần Thơ"
+    },
+    {
+      "id": 6,
+      "name": "Trần Thị Nam",
+      "email": "trầnthịnam6@gmail.com",
+      "phone": "0961220073",
+      "address": "240 đường Phan Đình Phùng, Đà Nẵng"
+    },
+    {
+      "id": 7,
+      "name": "Bùi Văn An",
+      "email": "bùivănan7@gmail.com",
+      "phone": "0925374874",
+      "address": "275 đường Cách Mạng Tháng 8, Huế"
+    },
+    {
+      "id": 8,
+      "name": "Ngô Văn Linh",
+      "email": "ngôvănlinh8@gmail.com",
+      "phone": "0924972279",
+      "address": "151 đường Nguyễn Huệ, TP. Hồ Chí Minh"
+    },
+    {
+      "id": 9,
+      "name": "Đặng Thị An",
+      "email": "dặngthịan9@gmail.com",
+      "phone": "0945351479",
+      "address": "257 đường Trần Hưng Đạo, Cần Thơ"
+    },
+    {
+      "id": 10,
+      "name": "Trần Thị Khánh",
+      "email": "trầnthịkhánh10@gmail.com",
+      "phone": "0995758349",
+      "address": "260 đường Hoàng Diệu, TP. Hồ Chí Minh"
+    },
+    {
+      "id": 11,
+      "name": "Lê Văn Minh",
+      "email": "lêvănminh11@gmail.com",
+      "phone": "0931682744",
+      "address": "277 đường Phan Đình Phùng, Hà Nội"
+    },
+    {
+      "id": 12,
+      "name": "Đỗ Thị Linh",
+      "email": "dỗthịlinh12@gmail.com",
+      "phone": "0975579548",
+      "address": "10 đường Lê Lợi, Đà Nẵng"
+    },
+    {
+      "id": 13,
+      "name": "Hoàng Văn Hoa",
+      "email": "hoàngvănhoa13@gmail.com",
+      "phone": "0917774584",
+      "address": "124 đường Hoàng Diệu, Hà Nội"
+    },
+    {
+      "id": 14,
+      "name": "Trần Thị Quân",
+      "email": "trầnthịquân14@gmail.com",
+      "phone": "0919289546",
+      "address": "273 đường Trần Hưng Đạo, TP. Hồ Chí Minh"
+    },
+    {
+      "id": 15,
+      "name": "Ngô Văn Quân",
+      "email": "ngôvănquân15@gmail.com",
+      "phone": "0983793389",
+      "address": "85 đường Cách Mạng Tháng 8, Cần Thơ"
+    },
+    {
+      "id": 16,
+      "name": "Phạm Thị Thảo",
+      "email": "phạmthịthảo16@gmail.com",
+      "phone": "0936998038",
+      "address": "160 đường Nguyễn Huệ, Quảng Ninh"
+    },
+    {
+      "id": 17,
+      "name": "Ngô Văn Minh",
+      "email": "ngôvănminh17@gmail.com",
+      "phone": "0968800797",
+      "address": "265 đường Lý Thường Kiệt, Hà Nội"
+    },
+    {
+      "id": 18,
+      "name": "Phạm Thị Hoa",
+      "email": "phạmthịhoa18@gmail.com",
+      "phone": "0918593410",
+      "address": "174 đường Nguyễn Trãi, Cần Thơ"
+    },
+    {
+      "id": 19,
+      "name": "Bùi Văn Hoa",
+      "email": "bùivănhoa19@gmail.com",
+      "phone": "0988979095",
+      "address": "113 đường Nguyễn Trãi, Hà Nội"
+    },
+    {
+      "id": 20,
+      "name": "Dương Thị Bình",
+      "email": "dươngthịbình20@gmail.com",
+      "phone": "0940728046",
+      "address": "35 đường Nguyễn Trãi, Huế"
+    },
+    {
+      "id": 21,
+      "name": "Huỳnh Thị Chi",
+      "email": "huỳnhthịchi21@gmail.com",
+      "phone": "0979008866",
+      "address": "122 đường Cách Mạng Tháng 8, Quảng Ninh"
+    },
+    {
+      "id": 22,
+      "name": "Đặng Thị Giang",
+      "email": "dặngthịgiang22@gmail.com",
+      "phone": "0982374753",
+      "address": "68 đường Hoàng Diệu, Cần Thơ"
+    },
+    {
+      "id": 23,
+      "name": "Đặng Thị Hoa",
+      "email": "dặngthịhoa23@gmail.com",
+      "phone": "0973481353",
+      "address": "209 đường Hai Bà Trưng, Hà Nội"
+    },
+    {
+      "id": 24,
+      "name": "Trần Thị Oanh",
+      "email": "trầnthịoanh24@gmail.com",
+      "phone": "0957553014",
+      "address": "217 đường Nguyễn Huệ, Hải Phòng"
+    },
+    {
+      "id": 25,
+      "name": "Ngô Văn Dũng",
+      "email": "ngôvăndũng25@gmail.com",
+      "phone": "0918135295",
+      "address": "207 đường Điện Biên Phủ, Huế"
+    },
+    {
+      "id": 26,
+      "name": "Trần Thị Hoa",
+      "email": "trầnthịhoa26@gmail.com",
+      "phone": "0935714784",
+      "address": "98 đường Phan Đình Phùng, Hải Phòng"
+    },
+    {
+      "id": 27,
+      "name": "Lê Văn Oanh",
+      "email": "lêvănoanh27@gmail.com",
+      "phone": "0934627347",
+      "address": "143 đường Lý Thường Kiệt, TP. Hồ Chí Minh"
+    },
+    {
+      "id": 28,
+      "name": "Trần Thị Phương",
+      "email": "trầnthịphương28@gmail.com",
+      "phone": "0983863413",
+      "address": "51 đường Nguyễn Trãi, Quảng Ninh"
+    },
+    {
+      "id": 29,
+      "name": "Đặng Thị Quân",
+      "email": "dặngthịquân29@gmail.com",
+      "phone": "0938688676",
+      "address": "206 đường Nguyễn Trãi, TP. Hồ Chí Minh"
+    },
+    {
+      "id": 30,
+      "name": "Vũ Văn An",
+      "email": "vũvănan30@gmail.com",
+      "phone": "0962401521",
+      "address": "136 đường Lý Thường Kiệt, Đà Nẵng"
+    }
+  ]
+}
